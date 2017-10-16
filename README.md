@@ -6,7 +6,7 @@ a  RulerView for android
 You can click here to [download apk .](https://github.com/panjichang//blob/master/app/app-release-v4.4.6-c446.apk?raw=true)
 
 ##Screenshots
-![Image](https://github.com/pruas/Ruler/raw/master/test.gif)
+![Image](https://github.com/panjichang/rulerview/blob/master/test.gif?raw=true)
 
 
 #How to use
