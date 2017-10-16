@@ -3,11 +3,12 @@ a  RulerView for android
 
 #Preview
 ##Demo
-You can click here to [download apk .](https://github.com/panjichang//blob/master/app/app-release-v4.4.6-c446.apk?raw=true)
+You can click here to [download apk .](https://github.com/panjichang/rulerview/blob/master/app-release.apk?raw=true)
 
 ##Screenshots
 ![Image](https://github.com/panjichang/rulerview/blob/master/test.gif?raw=true)
 
+QQ群:256484649
 
 #How to use
 created by XML like this:
