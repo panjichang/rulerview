@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ruler="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="@android:color/white"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:textSize="32sp"
+        android:text="0kg"
+        android:textColor="@color/green"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content" />
+
+    <com.pan.ruler.RulerView
+        ruler:minValue ="0"
+        android:id="@+id/simple_ruler"
+        android:paddingBottom="16dp"
+        android:background="#11000000"
+        ruler:maxValue ="100"
+        ruler:textSize="18sp"
+        ruler:textColor="@android:color/darker_gray"
+        ruler:highlightColor="@color/green"
+        ruler:rulerColor="#b3b3b3"
+        android:layout_marginTop="30dp"
+        ruler:intervalValue="1"
+        ruler:selectWidth="3dp"
+        ruler:highWidth="2dp"
+        ruler:rulerLineWidth="1dp"
+        ruler:intervalDistance="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        />
+</LinearLayout>
